@@ -1,1 +1,1 @@
-# Parcial-1-Mineria_de_datos-MVC3
+# Implement the MVC pattern in Tkinter
